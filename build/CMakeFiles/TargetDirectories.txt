@@ -1,3 +1,0 @@
-/home/nvidia/Desktop/Face_anonymization/build/CMakeFiles/rebuild_cache.dir
-/home/nvidia/Desktop/Face_anonymization/build/CMakeFiles/main.dir
-/home/nvidia/Desktop/Face_anonymization/build/CMakeFiles/edit_cache.dir
