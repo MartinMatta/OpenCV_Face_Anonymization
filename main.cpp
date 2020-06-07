@@ -8,7 +8,6 @@
 #include <vector>
 #include <string>
 
-//./main ../models/opencv_face_detector_uint8.pb ../models/opencv_face_detector.pbtxt
 
 using namespace cv::dnn;
 using namespace std;
